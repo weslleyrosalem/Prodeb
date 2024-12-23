@@ -1,6 +1,6 @@
 ## Enable or disable Milvus Cluster mode
 cluster:
-  enabled: true
+  enabled: false
 
 image:
   all:
